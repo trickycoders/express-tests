@@ -1,0 +1,26 @@
+{
+  "name": "express-tests",
+  "version": "1.0.0",
+  "description": "Trying to write tests for express app",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trickycoders/express-tests.git"
+  },
+  "author": "Arun Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trickycoders/express-tests/issues"
+  },
+  "homepage": "https://github.com/trickycoders/express-tests#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "jest": "^23.1.0",
+    "node-mocks-http": "^1.7.0"
+  }
+}
